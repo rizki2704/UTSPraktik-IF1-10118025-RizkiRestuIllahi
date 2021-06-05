@@ -9,6 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.UTSPraktikIF110118025RizkiRestuIllahi">
+        <activity android:name=".DialogueActivity"></activity>
+        <activity android:name=".DataActivity" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
