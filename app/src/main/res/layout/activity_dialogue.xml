@@ -41,6 +41,7 @@
         android:layout_gravity="bottom"
         android:text="Ok"
         android:layout_marginHorizontal="30dp"
-        android:textColor="@color/white"/>
+        android:textColor="@color/white"
+        android:onClick="ok"/>
 
 </LinearLayout>
